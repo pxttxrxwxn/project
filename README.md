@@ -4,7 +4,7 @@
 This project is part of the Frontend Software Development and Software Requirement courses. It is a booking website developed by Mae Suea Sao Group from the Software Engineering Department, University of Phayao, for the academic year 2024. The project aims to enhance software development skills and provide practical solutions for real-world applications.
 
 ## Table of Contents
-- [Team Job position](#Team%20Job%20position)
+- [Team Job position](#Team-Job-position)
 - [Contact](#Contact)
 - [Tech stack Frontend](#tech-stack-frontend)
 
